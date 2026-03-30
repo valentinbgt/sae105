@@ -3,6 +3,7 @@
 .dockerignore
 Dockerfile
 docker/
+!docker/000-default.conf
 *.md
 rapport.html
 rapport_blmk.html
